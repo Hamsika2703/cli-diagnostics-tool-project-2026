@@ -1,0 +1,11 @@
+SYSTEM DIAGNOSTICS REPORT
+=========================
+system: Windows
+python_version: 3.13.14
+machine: AMD64
+disk_total_gb: 475.79
+disk_free_gb: 367.44
+current_directory: C:\Users\a\OneDrive\Documents\cli-diagnostics-tools
+python_executable: C:\Users\a\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\python.exe
+environment_variables_count: 61
+developer_tools: {'python': None, 'git': None}
